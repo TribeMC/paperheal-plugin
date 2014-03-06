@@ -1,0 +1,13 @@
+name: PaperHealing
+main: V3Heal.main
+version: 1.0
+author: V3lop5
+description: PaperHeal Plugin
+commands:
+  setlive:
+    description: SetLiveCMD
+permissions:
+  paper.heal:
+    default: true
+  paper.other:
+    default: true
